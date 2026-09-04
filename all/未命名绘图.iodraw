@@ -14,15 +14,18 @@
           <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-5" value="军队有对口专业在招(专业名称和专业代码对的上)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-6" value="身体条件符合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jfw-6jX53aFVrwroNBGr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-8" target="jfw-6jX53aFVrwroNBGr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-8" value="入伍前提" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jfw-6jX53aFVrwroNBGr-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jfw-6jX53aFVrwroNBGr-1">
+        <mxCell id="jfw-6jX53aFVrwroNBGr-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-8" target="jfw-6jX53aFVrwroNBGr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="360" as="sourcePoint" />
             <mxPoint x="260" y="290" as="targetPoint" />
