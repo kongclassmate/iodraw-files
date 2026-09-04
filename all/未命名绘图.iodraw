@@ -71,8 +71,8 @@
         <mxCell id="jfw-6jX53aFVrwroNBGr-26" value="志愿服务证明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="366" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jfw-6jX53aFVrwroNBGr-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="jfw-6jX53aFVrwroNBGr-29" value="需要了解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
