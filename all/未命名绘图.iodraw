@@ -14,7 +14,7 @@
           <mxGeometry x="190" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-5" value="军队有对口专业在招(专业名称和专业代码对的上)&lt;div&gt;电子科学与技术080702&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-90" width="120" height="100" as="geometry" />
+          <mxGeometry x="330" y="-95" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-6" value="身体条件符合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-190" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-13" value="中级以上职业技能证书(需要确认)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-17" target="jfw-6jX53aFVrwroNBGr-18">
           <mxGeometry relative="1" as="geometry">
