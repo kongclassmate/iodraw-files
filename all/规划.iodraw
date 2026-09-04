@@ -60,7 +60,7 @@
           <mxGeometry x="70" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-18" value="参赛经历及获奖证书()电子设计竞赛、数学建模、智能车、蓝桥杯嵌入式等参赛证明/体现动手能力的项目资料" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="50" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-20" value="技能证书(计算机等级之类的)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="206" width="120" height="60" as="geometry" />
