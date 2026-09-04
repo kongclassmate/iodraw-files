@@ -53,6 +53,9 @@
         <mxCell id="jfw-6jX53aFVrwroNBGr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-17" target="jfw-6jX53aFVrwroNBGr-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jfw-6jX53aFVrwroNBGr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-17" target="jfw-6jX53aFVrwroNBGr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-17" value="加分项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
         <mxCell id="jfw-6jX53aFVrwroNBGr-22" value="团员/党员(积极分子)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jfw-6jX53aFVrwroNBGr-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jfw-6jX53aFVrwroNBGr-26" value="志愿服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
