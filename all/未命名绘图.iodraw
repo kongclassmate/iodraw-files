@@ -43,7 +43,7 @@
         <mxCell id="jfw-6jX53aFVrwroNBGr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-17" target="jfw-6jX53aFVrwroNBGr-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="614" />
+              <mxPoint x="180" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,19 +57,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-17" value="加分项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="796" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-18" value="参赛经历及获奖证书/体现动手能力的项目资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="584" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-20" value="技能证书(计算机等级之类的)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="796" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-22" value="团员/党员(积极分子)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="876" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-26" value="志愿服务证明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="956" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
