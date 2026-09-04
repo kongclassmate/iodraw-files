@@ -19,6 +19,9 @@
         <mxCell id="jfw-6jX53aFVrwroNBGr-6" value="身体条件符合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jfw-6jX53aFVrwroNBGr-8" value="入伍前提" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
