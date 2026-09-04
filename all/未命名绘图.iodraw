@@ -7,7 +7,7 @@
         <mxCell id="jfw-6jX53aFVrwroNBGr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-1" target="jfw-6jX53aFVrwroNBGr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jfw-6jX53aFVrwroNBGr-1" value="预检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jfw-6jX53aFVrwroNBGr-1" value="预检+军检标准的检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
