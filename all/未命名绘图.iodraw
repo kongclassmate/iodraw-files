@@ -41,13 +41,17 @@
           <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jfw-6jX53aFVrwroNBGr-17" target="jfw-6jX53aFVrwroNBGr-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="614" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-17" value="加分项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="644" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-18" value="参赛经历及获奖证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="584" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
