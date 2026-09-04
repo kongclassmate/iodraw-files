@@ -8,16 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-1" value="预检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-5" value="军队有对口专业在招(专业名称和专业代码对的上)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfw-6jX53aFVrwroNBGr-6" value="身体条件符合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
