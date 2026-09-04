@@ -37,8 +37,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jfw-6jX53aFVrwroNBGr-13" value="中级职业技能证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="jfw-6jX53aFVrwroNBGr-13" value="中级以上职业技能证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
